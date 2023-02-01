@@ -1,5 +1,5 @@
-var randomNumber1 = Math.floor(Math.random() * 7);
-var randomNumber2 = Math.floor(Math.random() * 7);
+var randomNumber1 = Math.floor(Math.random() * 6);
+var randomNumber2 = Math.floor(Math.random() * 6);
 
 
 var dicePics = ["images/dice1.png", "images/dice2.png", 
