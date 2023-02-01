@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 1vh;
+    text-align: center;
+    background-color: rgb(68, 68, 68);
+}
+
+#header h1 {
+    font-size: 6rem;
+    color: aquamarine;
+    text-shadow: 5px 2px #000000;
+}
+
+
+.row {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.row h2 {
+    padding-bottom: 20px;
+    color: aquamarine;
+}
+
+.dice {
+    padding: 50px;
+    
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    color: #808080;
+}
